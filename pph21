@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PPh 21</title>
+</head>
+<body>
+
+<h1>PPh Pasal 21</h1>
+
+<p>Materi tentang pajak penghasilan karyawan.</p>
+
+<h3>Artikel:</h3>
+
+<ul>
+    <li>
+        <a href="artikel1.html">
+            5 Hal Tak Terduga dalam Aturan Pajak 2023
+        </a>
+    </li>
+</ul>
+
+<a href="pajak.html">← Kembali ke Pajak</a>
+
+</body>
+</html>
